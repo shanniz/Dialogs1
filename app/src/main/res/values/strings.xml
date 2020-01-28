@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dialogs1</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="pick_toppings">\"Pick Topping\"</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="signin">Signin</string>
+    <string-array name="colors_array">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+    </string-array>
+</resources>

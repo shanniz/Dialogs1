@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="toppings">
+        <item>vanilla</item>
+        <item>chocolate</item>
+    </string-array>
+</resources>
